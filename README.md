@@ -41,7 +41,7 @@ bash blueprint.sh
 7. After waiting for the installation script to finish, open up your Pterodactyl admin panel and click on the puzzle icon in the top right of the website.
 
 ### Upgrade
-To upgrade Blueprint or its extensions, follow these steps:
+To upgrade Blueprint or its extensions after a Pterodactyl Update, follow these steps:
 
 1. Create a backup of your current panel. In case anything goes wrong, you can use your backup.
 2. Run the command `blueprint -upgrade`.
